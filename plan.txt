@@ -1,0 +1,6 @@
+Analyse de l'existant
+Modelisation du besoin
+Conception de la BD
+creation des maquette
+creation des interface client web
+creation de la  bd
